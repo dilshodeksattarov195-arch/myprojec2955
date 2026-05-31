@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokeneecrypt",
+        "uuid": 3327330,
+        "checksum": "95mbbr"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
